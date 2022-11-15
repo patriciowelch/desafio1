@@ -1,0 +1,3 @@
+Lucas Catardo
+
+Vamos a tener que subir un archivo nuevo de cada uno de los estudiantes con el nombre del archivo con su nombre, para ir probando y sacandonos los miedos con Git.
